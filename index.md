@@ -29,6 +29,6 @@ WisdomWidget does **not** integrate third-party analytics, advertising, or track
 
 You can delete the app to remove all local data. There are **no server-side accounts**.
 
-## Contact
+## Contact & Support
 
 For questions about privacy or support, contact: **support@wisdomwidget.app**
