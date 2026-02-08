@@ -31,4 +31,4 @@ You can delete the app to remove all local data. There are **no server-side acco
 
 ## Contact
 
-For questions about privacy, contact: **support@wisdomwidget.app**
+For questions about privacy or support, contact: **support@wisdomwidget.app**
